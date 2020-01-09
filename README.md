@@ -10,5 +10,5 @@
 - ENV_LOG_PATH // 环境日志输出路径
 - HTTP_LOG_PATH // 请求日志输出路径
 
->> NOTE: 请求方法为 GET
+> NOTE: 请求方法为 GET
 
