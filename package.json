@@ -2,7 +2,7 @@
   "name": "ding-sign",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +16,7 @@
   "dependencies": {
     "@types/axios": "^0.14.0",
     "axios": "^0.19.1",
+    "dotenv": "^8.2.0",
     "winston": "^3.2.1"
   }
 }
