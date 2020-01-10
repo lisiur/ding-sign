@@ -31,6 +31,7 @@ const handler: RequestListener = async (request, response) => {
         errcode: 0,
         errmsg: 'success',
         signature,
+        nonceStr,
         timeStamp,
       })
       response.write(data)
